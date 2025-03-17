@@ -1,0 +1,7 @@
+<application>
+  <component name="Emulator">
+    <option name="activateOnAppLaunch" value="false" />
+    <option name="launchInToolWindow" value="false" />
+    <option name="snapshotAutoDeletionPolicy" value="DELETE_AUTOMATICALLY" />
+  </component>
+</application>
