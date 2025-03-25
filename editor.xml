@@ -72,4 +72,7 @@
       </JAVA.annotation.hints>
     </settingsMapElement>
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
