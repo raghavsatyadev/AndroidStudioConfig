@@ -1,0 +1,5 @@
+<application>
+  <component name="PinDeviceService">
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.81.36:5555&quot;,&quot;serialNumber&quot;:&quot;RZCX6299AXK&quot;,&quot;name&quot;:&quot;samsung SM-E156B&quot;,&quot;address&quot;:&quot;192.168.81.36&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;14&quot;,&quot;apiLevel&quot;:&quot;34&quot;}]" />
+  </component>
+</application>

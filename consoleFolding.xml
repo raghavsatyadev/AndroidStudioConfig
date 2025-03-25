@@ -9,6 +9,7 @@
         <option value="Accessing hidden method" />
         <option value="ApkAssets" />
         <option value="bufferpool2" />
+        <option value="c2::u32" />
         <option value="camxncsintfqsee" />
         <option value="camxncsservice" />
         <option value="Can't process request" />
@@ -47,7 +48,7 @@
         <option value="updatePointerIcon" />
         <option value="ViewPostIme" />
         <option value="waterplugin" />
-        <option value="c2::u32" />
+        <option value="Usage not a subset" />
       </list>
     </option>
   </component>
