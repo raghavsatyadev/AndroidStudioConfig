@@ -1,0 +1,5 @@
+<application>
+  <component name="AiPluginSettings">
+    <option name="composeEnabled" value="true" />
+  </component>
+</application>
