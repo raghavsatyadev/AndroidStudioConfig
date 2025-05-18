@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Firesto" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Firesto" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:com.lexmark.mobileone" />
         <option value="package:com.lexmark.mobileone " />
         <option value="Consent" />
-        <option value="level:warn consent" />
       </list>
     </option>
   </component>
