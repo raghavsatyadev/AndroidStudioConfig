@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="cursorShape" value="VERTICAL" />
+    <option name="terminalEngine" value="NEW_TERMINAL" />
+  </component>
+</application>
