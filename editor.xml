@@ -61,6 +61,9 @@
       </map>
     </option>
   </component>
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="" />
   </component>
