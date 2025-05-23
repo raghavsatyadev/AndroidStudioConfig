@@ -5,6 +5,21 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1747990953482">Do you want to improve the logic for ResourceCompose class to make more compatible with hilt and compose navigation?</historyEntry>
+        <historyEntry timestamp="1747989676563">14:08:43.612 (AfterLogin:122) : AfterLogin : loginEvent: EMPTY, loginStatus: null
+14:08:51.872 (AfterLogin:122) : AfterLogin : loginEvent: SUCCESS, loginStatus: USER_ALREADY_LOGGED_IN
+14:08:51.873 (AfterLogin:131) : AfterLogin : showUserAlreadyLoggedInDialog: true
+14:08:51.874 (HandleLoginEvent:184) : HandleLoginEvent : USER_ALREADY_LOGGED_IN
+14:08:52.958 (AfterLogin:122) : AfterLogin : loginEvent: EMPTY, loginStatus: null
+14:08:53.358 (AfterLogin:122) : AfterLogin : loginEvent: SUCCESS, loginStatus: SUCCESS
+14:08:53.358 (AfterLogin:131) : AfterLogin : showUserAlreadyLoggedInDialog: false
+14:08:53.359 (HandleLoginEvent:174) : HandleLoginEvent : SUCCESS
+14:08:53.359 (LoginScreen:61) : AppNavHost : backstack: Dashboard-Login
+14:08:53.379 (HandleLoginEvent:174) : HandleLoginEvent : SUCCESS
+14:08:53.379 (LoginScreen:61) : AppNavHost : backstack: Dashboard
+
+ @LoginScreen.kt   @LoginViewModel.kt   @AppNavHost.kt 
+Why success is getting called 2 times?</historyEntry>
         <historyEntry timestamp="1747844147548">Explain: FATAL EXCEPTION: main
 Process: io.github.raghavsatyadev.scus, PID: 20851
 java.lang.IllegalStateException: No NavigationEventDispatcher was provided via LocalNavigationEventDispatcherOwner
