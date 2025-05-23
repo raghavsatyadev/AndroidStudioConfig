@@ -4,6 +4,10 @@
     <option name="prompts">
       <list>
         <PromptTemplate>
+          <option name="name" value="Explain this code" />
+          <option name="text" value="Explain next code: &#10; $SELECTION" />
+        </PromptTemplate>
+        <PromptTemplate>
           <option name="enabled" value="true" />
           <option name="name" value="Analyze performance bottlenecks" />
           <option name="text" value="This file below contains code that is exhibiting performance issues (e.g., slow execution, high CPU usage, memory leaks). Analyze the code to identify the specific performance bottlenecks. Suggest and implement optimizations to address these bottlenecks. Include comments explaining the changes and their expected impact on performance. If applicable, add logging or other performance metrics to measure the improvements.&#10;&#10;$CURRENT_FILE&#10;" />
