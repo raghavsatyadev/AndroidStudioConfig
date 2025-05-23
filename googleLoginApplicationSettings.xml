@@ -16,9 +16,10 @@
         <entry key="raghavsatyadev@gmail.com">
           <value>
             <set>
-              <option value="Android Vitals" />
+              <option value="GiAS" />
+              <option value="Backup and Sync" />
               <option value="Firebase" />
-              <option value="Gemini" />
+              <option value="Android Vitals" />
               <option value="User Info" />
             </set>
           </value>
