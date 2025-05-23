@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
@@ -43,7 +40,6 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="compose.state.read" value="true" />
-        <entry key="devkit.threading" value="true" />
         <entry key="groovy.implicit.null.argument" value="true" />
         <entry key="groovy.lambda.parameter.inlay.provider" value="true" />
         <entry key="groovy.local.variable.implicit.types" value="true" />
@@ -64,18 +60,8 @@
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="" />
-    <settingsMapElement>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showInferred" value="true" />
-        </Settings>
-      </JAVA.annotation.hints>
-    </settingsMapElement>
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
-  </component>
-  <component name="JetEditorOptions">
-    <option name="donTShowConversionDialog" value="true" />
   </component>
 </application>

@@ -5,25 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1747844147548">Explain: FATAL EXCEPTION: main
-Process: io.github.raghavsatyadev.scus, PID: 20851
-java.lang.IllegalStateException: No NavigationEventDispatcher was provided via LocalNavigationEventDispatcherOwner
-at androidx.navigation3.ui.NavigationEventHandlerKt.NavigationEventHandler(NavigationEventHandler.kt:61)
-at androidx.navigation3.ui.NavDisplayKt$NavDisplay$5.invoke(NavDisplay.kt:202) with tag AndroidRuntime</historyEntry>
-        <historyEntry timestamp="1737880804654">Explain build error: Internal compiler error. See log for more details</historyEntry>
-        <historyEntry timestamp="1734091865331">Explain: (DispatchedCoroutine.kt:100) : createMatch : Serializer for class 'Any' is not found. Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied.kotlinx.serialization.SerializationException: Serializer for class 'Any' is not found. Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied. with tag AppLog</historyEntry>
-        <historyEntry timestamp="1734091793318">Explain: (DispatchedCoroutine.kt:100) : createMatch : Serializer for class 'Any' is not found.
-Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied.
-
-kotlinx.serialization.SerializationException: Serializer for class 'Any' is not found.
-Please ensure that class is marked as '@Serializable' and that the serialization compiler plugin is applied. with tag AppLog</historyEntry>
-        <historyEntry timestamp="1734086751944">I'm getting the following error while building my project. The error is: Serializer has not been found for type 'java.util.Date?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual
-```
-$ ./gradlew :support:compileDevDebugKotlin
-e: file:///C:/Raghav/CurrentProjects/SCUC/SimpleCricketUmpireScorer/support/src/main/kotlin/io/github/raghavsatyadev/support/models/db/match_record/MatchRecord.kt:139:31 Serializer has not been found for type 'java.util.Date?'. To use context serializer as fallback, explicitly annotate type or property with @Contextual
-
-```
-How do I fix this?</historyEntry>
+        <historyEntry timestamp="1747983740941">C:\Raghav\Work\Android\CurrentProjects\SCUS\SimpleCricketUmpireScorer\support\src\main\AndroidManifest.xml:65:13-68:39 Warning:
+	meta-data#androidx.work.WorkManagerInitializer was tagged at AndroidManifest.xml:65 to remove other declarations but no other declaration present</historyEntry>
       </list>
     </option>
   </component>
