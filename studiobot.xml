@@ -5,6 +5,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1747998858570">for making a bulleted list I am currently either using 1st method of 2nd method in createdBulletedPointText, which one is better? if you have a 3rd option also please provide.
+
+
+Also androidx.compose.ui.text.AnnotatedString has some methods with name bullet
+withBulletList, pushBullet, withBulletListItem.
+instead manually adding the bullet in string, should I use above methods? if yes provide code for it</historyEntry>
         <historyEntry timestamp="1747990953482">Do you want to improve the logic for ResourceCompose class to make more compatible with hilt and compose navigation?</historyEntry>
         <historyEntry timestamp="1747989676563">14:08:43.612 (AfterLogin:122) : AfterLogin : loginEvent: EMPTY, loginStatus: null
 14:08:51.872 (AfterLogin:122) : AfterLogin : loginEvent: SUCCESS, loginStatus: USER_ALREADY_LOGGED_IN
