@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1749053725314">@activity_create_match.xml   @CreateMatchRecordScreen.kt convert the XML code in activity create match record to compose code with constraintlayout</historyEntry>
         <historyEntry timestamp="1748626786707">@libs.versions.toml  check the whole project for any deprecation</historyEntry>
       </list>
     </option>
