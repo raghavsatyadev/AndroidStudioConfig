@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine signOut" />
         <option value="package:mine level:error AfterLogin | HandleLoginEvent | AppNavHost" />
         <option value="package:mine level:error AfterLogin" />
         <option value="package:mine level:error AfterLogin | HandleLoginEvent" />
         <option value="package:mine level:error AppNavHost" />
-        <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="package:mine Firesto" />
         <option value="package:mine Random" />
