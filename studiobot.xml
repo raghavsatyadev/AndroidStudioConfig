@@ -4,7 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1752142283308">let create long description for this project for google play store, here's short description</historyEntry>
+        <historyEntry timestamp="1752170240564">Explain: StrictMode policy violation: android.os.strictmode.NetworkViolation
+at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1680)
+at com.android.org.conscrypt.Platform.blockGuardOnNetwork(Platform.java:429)
+at com.android.org.conscrypt.ConscryptEngineSocket$SSLOutputStream.writeInternal(ConscryptEngineSocket.java:710)
+at com.android.org.conscrypt.ConscryptEngineSocket$SSLOutputStream.write(ConscryptEngineSocket.java:705) with tag StrictMode</historyEntry>
       </list>
     </option>
   </component>
