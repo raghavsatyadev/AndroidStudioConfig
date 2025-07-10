@@ -2,5 +2,10 @@
   <component name="StudioBotSettings">
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1752142283308">let create long description for this project for google play store, here's short description</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
