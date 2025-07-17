@@ -1,6 +1,9 @@
 <application>
+  <component name="ReworkedTerminalUsage"><![CDATA[{
+  "enterKeyPressedTimes": 6
+}]]></component>
   <component name="TerminalOptionsProvider">
     <option name="cursorShape" value="VERTICAL" />
-    <option name="terminalEngine" value="NEW_TERMINAL" />
+    <option name="terminalEngine" value="REWORKED" />
   </component>
 </application>

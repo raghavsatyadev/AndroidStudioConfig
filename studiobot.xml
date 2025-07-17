@@ -4,6 +4,26 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1752740903188">I'm getting the following error while syncing my project. The error is: java.util.zip.ZipException: zip END header not found
+```
+A problem occurred configuring project ':app'.
+&gt; java.util.zip.ZipException: zip END header not found
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
+...
+Caused by: java.util.zip.ZipException: zip END header not found
+	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository$openJarFile$1.invoke(ClassBytesRepository.kt:140)
+	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository$openJarFile$1.invoke(ClassBytesRepository.kt:140)
+	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository.openJarFile$lambda$25(ClassBytesRepository.kt:140)
+	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository.openJarFile(ClassBytesRepository.kt:140)
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1752737568205">I'm getting the following error while syncing my project. The error is: java.util.zip.ZipException: zip END header not found
 ```
 A problem occurred configuring project ':app'.
