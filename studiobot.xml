@@ -4,57 +4,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1756060647363">MatchRecordScreenPreview
-
-Fix the preview errors. use only MatchRecordUI for showing UI</historyEntry>
-        <historyEntry timestamp="1756060440105">MatchRecordScreenPreview
-
-Fix the preview errors. use only MatchRecordUI for showing UI</historyEntry>
-        <historyEntry timestamp="1752740903188">I'm getting the following error while syncing my project. The error is: java.util.zip.ZipException: zip END header not found
-```
-A problem occurred configuring project ':app'.
-&gt; java.util.zip.ZipException: zip END header not found
-
-* Try:
-&gt; Run with --info or --debug option to get more log output.
-&gt; Run with --scan to get full insights.
-&gt; Get more help at https://help.gradle.org.
-
-* Exception is:
-org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
-...
-Caused by: java.util.zip.ZipException: zip END header not found
-	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository$openJarFile$1.invoke(ClassBytesRepository.kt:140)
-	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository$openJarFile$1.invoke(ClassBytesRepository.kt:140)
-	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository.openJarFile$lambda$25(ClassBytesRepository.kt:140)
-	at org.gradle.kotlin.dsl.internal.sharedruntime.support.ClassBytesRepository.openJarFile(ClassBytesRepository.kt:140)
-```
-How do I fix this?</historyEntry>
-        <historyEntry timestamp="1752737568205">I'm getting the following error while syncing my project. The error is: java.util.zip.ZipException: zip END header not found
-```
-A problem occurred configuring project ':app'.
-&gt; java.util.zip.ZipException: zip END header not found
-
-* Try:
-&gt; Run with --info or --debug option to get more log output.
-&gt; Run with --scan to generate a Build Scan (Powered by Develocity).
-&gt; Get more help at https://help.gradle.org.
-
-* Exception is:
-org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
-...
-Caused by: java.util.zip.ZipException: zip END header not found
-	at org.jetbrains.kotlin.incremental.classpathDiff.JarReader.&lt;init&gt;(ClasspathEntrySnapshotter.kt:119)
-	at org.jetbrains.kotlin.incremental.classpathDiff.DirectoryOrJarReader$Companion.create(ClasspathEntrySnapshotter.kt:87)
-	at org.jetbrains.kotlin.incremental.classpathDiff.ClasspathEntrySnapshotter.snapshot(ClasspathEntrySnapshotter.kt:42)
-	at org.jetbrains.kotlin.buildtools.internal.CompilationServiceImpl.calculateClasspathSnapshot(CompilationServiceImpl.kt:84)
-```
-How do I fix this?</historyEntry>
-        <historyEntry timestamp="1752170240564">Explain: StrictMode policy violation: android.os.strictmode.NetworkViolation
-at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1680)
-at com.android.org.conscrypt.Platform.blockGuardOnNetwork(Platform.java:429)
-at com.android.org.conscrypt.ConscryptEngineSocket$SSLOutputStream.writeInternal(ConscryptEngineSocket.java:710)
-at com.android.org.conscrypt.ConscryptEngineSocket$SSLOutputStream.write(ConscryptEngineSocket.java:705) with tag StrictMode</historyEntry>
+        <historyEntry timestamp="1756556182106">An exception occurred applying plugin request [id: 'org.jetbrains.kotlin.android', version: '2.2.20-RC']
+&gt; Failed to apply plugin 'org.jetbrains.kotlin.android'.
+   &gt; Cannot add extension with name 'kotlin', as there is an extension already registered with that name.</historyEntry>
+        <historyEntry timestamp="1756556024157">An exception occurred applying plugin request [id: 'org.jetbrains.kotlin.android', version: '2.2.20-RC']
+&gt; Failed to apply plugin 'org.jetbrains.kotlin.android'.
+   &gt; Cannot add extension with name 'kotlin', as there is an extension already registered with that name.</historyEntry>
       </list>
     </option>
   </component>
