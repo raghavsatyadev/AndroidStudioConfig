@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error DateTimePickerDialogUI" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="adbidea" />
         <option value="package:mine " />
         <option value="package:mine level:error DateTimePickerDialogUI" />
         <option value="package:mine level:error CreateMatchScreen" />
@@ -22,7 +23,6 @@
         <option value="onMessageReceived" />
         <option value="package:mine onMessageReceived" />
         <option value="package:mine Google" />
-        <option value="package:mine setupGoogleServices" />
       </list>
     </option>
   </component>
