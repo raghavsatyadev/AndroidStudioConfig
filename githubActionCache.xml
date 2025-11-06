@@ -89,6 +89,44 @@
             </GitHubAction>
           </value>
         </entry>
+        <entry key="actions/github-script@v7">
+          <value>
+            <GitHubAction>
+              <option name="action" value="true" />
+              <option name="inputs">
+                <map>
+                  <entry key="base-url" value="r[false]  An optional GitHub REST API URL to connect to a different GitHub instance. For example, https://my.github-enterprise-server.com/api/v3" />
+                  <entry key="debug" value="r[false] def[${{ runner.debug == '1' }}] Whether to tell the GitHub client to log details of its requests. true or false. Default is to run in debug mode when the GitHub Actions step debug logging is turned on." />
+                  <entry key="github-token" value="r[false] def[${{ github.token }}] The GitHub token used to create an authenticated client" />
+                  <entry key="previews" value="r[false]  A comma-separated list of GraphQL API previews to accept" />
+                  <entry key="result-encoding" value="r[false] def[json] Either &quot;string&quot; or &quot;json&quot; (default &quot;json&quot;)—how the result will be encoded" />
+                  <entry key="retries" value="r[false] def[0] The number of times to retry a request" />
+                  <entry key="retry-exempt-status-codes" value="r[false] def[400,401,403,404,422] A comma separated list of status codes that will NOT be retried e.g. &quot;400,500&quot;. No effect unless `retries` is set" />
+                  <entry key="script" value="r[true]  The script to run" />
+                  <entry key="user-agent" value="r[false] def[actions/github-script] An optional user-agent string" />
+                </map>
+              </option>
+              <option name="metaData">
+                <map>
+                  <entry key="downloadUrl" value="https://raw.githubusercontent.com/actions/github-script/v7/action.yml" />
+                  <entry key="expiryTime" value="1763660728788" />
+                  <entry key="githubUrl" value="https://github.com/actions/github-script/tree/v7#readme" />
+                  <entry key="isAction" value="true" />
+                  <entry key="isLocal" value="false" />
+                  <entry key="isResolved" value="true" />
+                  <entry key="isSuppressed" value="false" />
+                  <entry key="name" value="actions/github-script" />
+                  <entry key="usesValue" value="actions/github-script@v7" />
+                </map>
+              </option>
+              <option name="outputs">
+                <map>
+                  <entry key="result" value=" The return value of the script, stringified with `JSON.stringify`" />
+                </map>
+              </option>
+            </GitHubAction>
+          </value>
+        </entry>
         <entry key="actions/setup-java@v4">
           <value>
             <GitHubAction>
