@@ -2,8 +2,8 @@
   <component name="StudioBotSettings">
     <option name="chatModelId">
       <ModelIdState>
-        <option name="id" value="&lt;Default&gt;" />
-        <option name="providerName" value="Gemini" />
+        <option name="id" value="gemini-2.5-pro" />
+        <option name="providerName" value="Google AI Studio" />
       </ModelIdState>
     </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />
