@@ -1,5 +1,5 @@
 <application>
   <component name="AiPluginSettings">
-    <option name="composeEnabled" value="true" />
+    <option name="enableAutomaticGenerationOutlines" value="true" />
   </component>
 </application>
