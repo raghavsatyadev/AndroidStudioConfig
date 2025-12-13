@@ -2,7 +2,7 @@
   <component name="StudioBotSettings">
     <option name="chatModelId">
       <ModelIdState>
-        <option name="id" value="gemini-2.5-pro" />
+        <option name="id" value="gemini-2.5-flash" />
         <option name="providerName" value="Google AI Studio" />
       </ModelIdState>
     </option>
