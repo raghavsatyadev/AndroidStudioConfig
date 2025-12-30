@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:io.github.raghavsatyadev.scus  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:io.github.raghavsatyadev.scus  " />
         <option value="adbidea" />
         <option value="package:mine " />
         <option value="package:mine level:error DateTimePickerDialogUI" />
@@ -22,7 +23,6 @@
         <option value="package:mine searchVideos" />
         <option value="onMessageReceived" />
         <option value="package:mine onMessageReceived" />
-        <option value="package:mine Google" />
       </list>
     </option>
   </component>
