@@ -1,0 +1,14 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="chatModelId">
+      <ModelIdState>
+        <option name="id" value="&lt;Default&gt;" />
+        <option name="providerName" value="Gemini" />
+      </ModelIdState>
+    </option>
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="enableCodeCompletion" value="false" />
+    <option name="onboardedVersion" value="3" />
+    <option name="previewAttachingEnabled" value="true" />
+  </component>
+</application>

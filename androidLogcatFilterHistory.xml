@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:io.github.raghavsatyadev.scus  " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:io.github.raghavsatyadev.scus  " />
+        <option value="adbidea" />
+        <option value="package:mine " />
+        <option value="package:mine level:error DateTimePickerDialogUI" />
+        <option value="package:mine level:error CreateMatchScreen" />
+        <option value="package:mine level:error " />
+        <option value="package:mine signOut" />
+        <option value="package:mine level:error AfterLogin | HandleLoginEvent | AppNavHost" />
+        <option value="package:mine level:error AfterLogin" />
+        <option value="package:mine level:error AfterLogin | HandleLoginEvent" />
+        <option value="package:mine level:error AppNavHost" />
+        <option value="package:mine" />
+        <option value="package:mine Firesto" />
+        <option value="package:mine Random" />
+        <option value="package:mine Request Body" />
+        <option value="package:mine Request Body:" />
+        <option value="package:c" />
+        <option value="package:mine searchVideos" />
+        <option value="onMessageReceived" />
+        <option value="package:mine onMessageReceived" />
+      </list>
+    </option>
+  </component>
+</application>

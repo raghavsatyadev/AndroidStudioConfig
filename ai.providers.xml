@@ -1,0 +1,17 @@
+<application>
+  <component name="ModelDataProviders">
+    <option name="providerDetails">
+      <list>
+        <ProviderDetails>
+          <option name="description" value="Gemini" />
+          <option name="providerType" value="GEMINI" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="Google AI Studio" />
+          <option name="providerType" value="AI_STUDIO" />
+          <option name="providerData" value="&lt;AIStudioProviderData&gt;&#10;  &lt;option name=&quot;apiKey&quot; value=&quot;&quot; /&gt;&#10;&lt;/AIStudioProviderData&gt;" />
+        </ProviderDetails>
+      </list>
+    </option>
+  </component>
+</application>
