@@ -1,9 +1,0 @@
-<application>
-  <component name="StudioFlags">
-    <option name="data">
-      <map>
-        <entry key="journeys.with.gemini.enable.journeys.with.gemini.execution" value="true" />
-      </map>
-    </option>
-  </component>
-</application>

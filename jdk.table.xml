@@ -1,119 +1,9 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Android API 7 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 25 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-25/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-25/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-25" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-25" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 15 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-15/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-15/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-15" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-15" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 26 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-26/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-26/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-26" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-26" />
-    </jdk>
-    <jdk version="2">
       <name value="Android API 10 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -122,9 +12,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-10/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-10/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-10/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-10/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -139,200 +28,9 @@
       <additional sdk="android-10" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 31 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-31/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-31/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-31/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-31" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-31" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 17 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-17/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-17/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-17" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-17" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 28 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-28/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-28/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-28/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-28" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-28" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 13 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-13/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-13/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-13" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 14 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-14/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-14/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-14" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 23 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-23/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-23/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-23" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-23" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 22 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-22/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-22/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-22" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-22" />
-    </jdk>
-    <jdk version="2">
       <name value="Android API 11 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -341,9 +39,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-11/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-11/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-11/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-11/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -360,7 +57,7 @@
     <jdk version="2">
       <name value="Android API 12 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -369,9 +66,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-12/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-12/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-12/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-12/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -386,9 +82,9 @@
       <additional sdk="android-12" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 19 Platform" />
+      <name value="Android API 13 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -397,116 +93,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-19/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-19/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-19" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-19" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 18 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-18/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-18/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-18" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-18" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 32 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-32/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-32/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-32/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-32" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-32" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 33 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-33/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-33" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-33" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 33, extension level 5 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33-ext5/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33-ext5/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-33-ext5/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-13/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-13/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -518,22 +106,22 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional sdk="android-33-ext5" />
+      <additional sdk="android-13" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 33, extension level 4 Platform" />
+      <name value="Android API 14 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33-ext4/data/annotations.zip!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-33-ext4/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-33-ext4/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-14/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-14/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -545,120 +133,12 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional sdk="android-33-ext4" />
+      <additional sdk="android-14" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 36, extension level 17 Platform" />
+      <name value="Android API 15 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-36/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-36" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-36" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 35, extension level 13 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-35/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-35/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-35/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-35" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-35" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 34, extension level 7 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-34/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-34/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-34/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-34" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-34" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 30 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-30/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-30/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-30/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-30" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-30" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 27 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -667,8 +147,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-27/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-27/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-15/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-15/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -676,71 +156,16 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-27" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-15" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional sdk="android-27" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 9 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-9/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-9/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-9" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 29 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-29/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-29/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-29/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-29" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-29" />
+      <additional sdk="android-15" />
     </jdk>
     <jdk version="2">
       <name value="Android API 16 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -749,8 +174,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-16/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-16/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-16/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-16/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -758,16 +183,16 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-16" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-16" type="simple" />
           </root>
         </sourcePath>
       </roots>
       <additional sdk="android-16" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 24 Platform" />
+      <name value="Android API 17 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -776,8 +201,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-24/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-24/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-17/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-17/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -785,16 +210,16 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-24" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-17" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional sdk="android-24" />
+      <additional sdk="android-17" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 8 Platform" />
+      <name value="Android API 18 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -803,26 +228,25 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-8/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-8/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-18/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-18/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-18" type="simple" />
+          </root>
         </sourcePath>
       </roots>
-      <additional sdk="android-8" />
+      <additional sdk="android-18" />
     </jdk>
     <jdk version="2">
-      <name value="Android API 21 Platform" />
+      <name value="Android API 19 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -831,8 +255,8 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-21/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-21/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-19/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-19/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -840,38 +264,11 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-21" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-19" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional sdk="android-21" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 20 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-20/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-20/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-20" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional sdk="android-20" />
+      <additional sdk="android-19" />
     </jdk>
     <jdk version="2">
       <name value="jbr-21" />
@@ -956,74 +353,19 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="Android API 7 Platform (2)" />
+      <name value="Android API 36.0, extension level 17 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-36/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 35, Baklava preview, extension level 16 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-Baklava/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-Baklava/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-Baklava/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-Baklava" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 36.1, extension level 20 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36.1/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36.1/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-36.1/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-36/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-36/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -1031,150 +373,11 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-36.1" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-36" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional sdk="android-36.1" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 36.1, CANARY preview, extension level 20 Platform" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-CANARY/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-CANARY/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-CANARY/data/res" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-CANARY" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 7 Platform (3)" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 7 Platform (4)" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 7 Platform (5)" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 7 Platform (6)" />
-      <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/resources/androidAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-7/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-7/data/res" type="simple" />
-            <root url="jar://C:/Raghav/Work/Android/SDK/tools/support/annotations.jar!/" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root url="http://developer.android.com/reference/" type="simple" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional sdk="android-7" />
+      <additional sdk="android-36" />
     </jdk>
   </component>
 </application>
