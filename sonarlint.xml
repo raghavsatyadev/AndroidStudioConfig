@@ -7,7 +7,6 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://localhost:9000/" />
-          <token>dfd9dfdbdfdadff5df9fdfcbdf9edf92dfcbdf92df9fdf92df9adfccdfcbdf9cdf9edf99df9edfc8df9fdfcedf9adfccdfcedfc9df99dfcedf9adf92df93df9bdfcfdf98df93df92dfc9dfc9df98df9edfc9df9bdf9bdf93</token>
           <option name="name" value="LocalHost" />
         </SonarQubeServer>
       </list>
