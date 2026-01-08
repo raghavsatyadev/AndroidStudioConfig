@@ -14,6 +14,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-10/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-10/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -41,6 +42,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-11/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-11/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -68,6 +70,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-12/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-12/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -95,6 +98,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-13/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-13/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -122,6 +126,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-14/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-14/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -149,6 +154,7 @@
           <root type="composite">
             <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-15/android.jar!/" type="simple" />
             <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-15/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/tools/support/annotations.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
