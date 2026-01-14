@@ -3,14 +3,6 @@
     <option name="autoTrigger" value="false" />
     <option name="regionEnabled" value="true" />
     <option name="secretsNeverBeenAnalysed" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000/" />
-          <option name="name" value="LocalHost" />
-        </SonarQubeServer>
-      </list>
-    </option>
     <rules />
   </component>
 </application>
