@@ -28,6 +28,18 @@
       <path value="Left" />
       <path value="VCS Group" />
     </group>
+    <group value="Forward" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <path value="General Actions" />
+    </group>
+    <group value="Back" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+      <path value="General Actions" />
+    </group>
     <group value="Compare.SameVersion" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
