@@ -451,17 +451,17 @@
     <jdk version="2">
       <name value="Android API 36.0, extension level 17 Platform" />
       <type value="Android SDK" />
-      <homePath value="C:/Raghav/Work/Android/SDK" />
+      <homePath value="C:/Raghav/Work/Software/SDK" />
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36/data/annotations.zip!/" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-36/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Raghav/Work/Android/SDK/platforms/android-36/android.jar!/" type="simple" />
-            <root url="file://C:/Raghav/Work/Android/SDK/platforms/android-36/data/res" type="simple" />
+            <root url="jar://C:/Raghav/Work/Software/SDK/platforms/android-36/android.jar!/" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/platforms/android-36/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -469,7 +469,7 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="file://C:/Raghav/Work/Android/SDK/sources/android-36" type="simple" />
+            <root url="file://C:/Raghav/Work/Software/SDK/sources/android-36" type="simple" />
           </root>
         </sourcePath>
       </roots>
