@@ -17,10 +17,10 @@
           <value>
             <set>
               <option value="GiAS" />
-              <option value="User Info" />
-              <option value="Notifications" />
               <option value="Firebase" />
               <option value="Android Vitals" />
+              <option value="User Info" />
+              <option value="Notifications" />
               <option value="Gemini" />
             </set>
           </value>
