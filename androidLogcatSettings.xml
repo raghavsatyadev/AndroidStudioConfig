@@ -2,11 +2,12 @@
   <component name="AndroidLogcatSettings">
     <option name="ignoredTags">
       <set>
-        <option value="CameraManagerGlobal" />
-        <option value="CameraInjector" />
         <option value="avsatyadev.scus" />
+        <option value="CameraManagerGlobal" />
         <option value="CameraExtImplXiaoMi" />
         <option value="VideoCapabilities" />
+        <option value="CameraInjector" />
+        <option value="View" />
       </set>
     </option>
   </component>

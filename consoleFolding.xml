@@ -39,6 +39,7 @@
         <option value="Service" />
         <option value="ssl_client_socket_impl" />
         <option value="Suppressing notification" />
+        <option value="SurfaceTexture" />
         <option value="tagSocket" />
         <option value="tagSocket(3) with statsTag=0xffffffff" />
         <option value="tagSocket(5) with statsTag=0xffffffff," />
@@ -51,7 +52,7 @@
         <option value="Usage not a subset" />
         <option value="ViewPostIme" />
         <option value="waterplugin" />
-        <option value="SurfaceTexture" />
+        <option value="setRequestedFrameRate" />
       </list>
     </option>
   </component>
