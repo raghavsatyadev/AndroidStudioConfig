@@ -1,16 +1,17 @@
 <application>
   <component name="KoinServiceState">
-    <option name="data" value="SdE5MRlOSE3vPyC241VhcCP8auD9hxtIvbJhfTA62qaX1XVFpzfaDLCNIo4WXc1hR2JR6p61gIEJc72AVod04hwZ7hu+Aklhef+Y2w8MLqA=" />
-    <option name="deviceId" value="9c52da6e-ba8d-4b16-9fe6-21ed5b2888c7" />
+    <option name="authorizedV3" value="true" />
+    <option name="data" value="x26YA2PWtQoYDxWMYA0vtmlBiIAkRGygPieTBrRSaUK2AthWGWRTRz6fBbG0dMtkVtP+3OIsSVOXa6uC6AcmGyX0IS6/ieZvg72viX64MmosJhtc/n0+YRgTPoWdlf/dz1yWkYkryPpyuHyAYbTRBvd3oCDv8+6zprjNtWzvGC/09olv6EUwcTytDlL8KDh3erx30xd8NSmH0laMKEPRIJHDtvhYTYc3uDBqCFeHdEj93NKFDBYpQSxX/LN7GGp0X1/cpbrqPLYpWuj+ZVzHYYxNAT8h/RNAGTE9CD+jF/ldzotc3F7dJ4ukMCB/v7pemyNuZyqueHVb+dyNJT5tBpciYCcNZInA+rWSuPhoErq9eph8VxdfnPP7GR/wMJCYQa9xqHtHXeMVCbvIDGAAVXJNoy1vx+HDf8zKAJ9FhKnb9TOJftyvGe3Nr27cdnRCxX2mTznAx8GMrwUbbC7vFsLF3OzFQMki5+S8RDRbJV7dHH9rOx9IzvgGLZSr1VGEqhZbD+Bij9HzsZuJrpmc3uvJL0qnwhlmNj/D8aK4UV1DqM+1GIVUtk+7CGgftITxUIbMhaaBPTlgiSx3m2F6opjSX+dcw4GP3w17iPwBGRBMkjBQBlL/QJx1qT2R4IwBH9hT0pPMlu3Za7tJE9cegtu+kFqBIOR/ecKZccLZmdAkoRrhoYdjdcbAiI2G7jgugvbe0HSuQTy2tuuS/OA+t3E0H+cux+MSABJMQU7yc822rlwHTXMp9fXZiMJ3AQprdvqgr9dmoQiPwILbNLcKxni/qFIKP9h58SMdCCk1aksSxo9IWUj8QqPTVKreKQ/IXGnw95g7x/XAa4o2f/RkKrzD5AcnMjx3YbAVrITZEP/zOnq9catbpGn8wBe1TX3FA0+AgUCAFOi98HZl2L07WJnBZd/ys+Bz3leFm6saTHivsLrfHhRJcmDBnqoe0yKdWX6If7jn1xdkHl4sWqQhnkNIAOUaZnqM5yoFBzu7m8y5/SethOTYQmQz7Zm8RZa3c85jTZov8lr5ZMF/O3YJwpWwlTkW5mrUYMxzjPrf+XhOAs7uBIHTYCXok/nvr38wChltKwVafwYs8ypby/WFzjOwW05Mx0WIHVpj3v205ugrg0pZydYCPILaRlwKLC69P7/I3WJqJNU3AxpW1DzXrFJ1r4aeA2wqC/CpjzhtHhyTLEMXEVYwQhbK+MC7ESS9cfWIfs2qiEf/kJTBZw5gXSpVobvvHOQD/oZkNLX5Qai/5/R+2yhsx1ejQQz2OhnDwys+SxNwKUMobgQzf3ZIigF8v3/nEmAXwJ2GqAz5mHdHi05eqg3vWUusCRzxlOCO8JO41qRD1E5AD6SvmEyywDkBUwLUHRY6M2eFlF4FuvGRILr4i6SlVcOTHor2RhCb5T+tghPXhGLQEjagvjShPIj2vx32Bkx+BKIqE1qEt5a6PLleOt18Ci6plVwhoq4Rk+Pq9RqY5vtlyjoKgeDPi4xwifIEMw5iJf1QigqgW9G2kWleUedh69s3vpKoMFx1lQtN+PIcFslxxMGzIoG3cM5mJl6MgdxUD08Ia7heXVch/O70I/JYeZUo9BbKLM1pETWdgYZWxe9Zdfl+qAj8ELinYaISjawHD5saC8ZsvkQ6hEHUpDuDw5krcKr6aHTwkbOjqBkoDY0qUAMamXOesm2VpZYEMNJwXZw6o4Tcu2tT78lPdkIY+SytorIz3p1gVV4oUN+Bl1/RGe+Tebz9oVe+NUqlohEGMDV1DFzcIrT56YjrCCT0ekziQCEXMV8hKoSKKB4QmnT1G51QS7Lr28xbxsvG/V8fmvn++NODU2z2i1/Z54/QEHqMOpRDMky8vic=" />
+    <option name="deviceId" value="08778b2d-a22a-49ff-b56b-6a8dc4798741" />
     <option name="f" value="true" />
     <option name="lastMetric">
       <map>
-        <entry key="1af3e18a" value="1771312225057" />
+        <entry key="1af3e18a" value="1771236727913" />
       </map>
     </option>
     <option name="lastSdkDetected">
       <map>
-        <entry key="1af3e18a" value="1771312225042" />
+        <entry key="1af3e18a" value="1771237606645" />
       </map>
     </option>
   </component>
