@@ -1,5 +1,6 @@
 <application>
   <component name="CopilotAgentUserSettings">
+    <option name="suppressAcceptAllWarning" value="true" />
     <option name="suppressDiscardAllWarning" value="true" />
   </component>
 </application>
