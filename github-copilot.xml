@@ -1,13 +1,14 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <option name="enableNextEditSuggestions" value="true" />
+    <option name="nesDefaultAppliedForFreePlan" value="true" />
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
-    <option name="preferredAccount" value="668279db-4df9-4f14-b25c-9e2c714cd555" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="trustToolAnnotations" value="true" />
     <option name="terminalRulesVersion" value="1" />
@@ -25,5 +26,6 @@
         <option name="pattern" value="**/github-copilot/**/*" />
       </FileSafetyRule>
     </editAutoApprove>
+    <option name="legacyXdgConfigMigrated" value="true" />
   </component>
 </application>

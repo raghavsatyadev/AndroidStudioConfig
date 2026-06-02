@@ -1,0 +1,10 @@
+<application>
+  <component name="ComposeStabilitySettings">
+    <option name="runtimeGutterColorRGB" value="-997772" />
+    <option name="runtimeHintColorRGB" value="-997772" />
+    <option name="stableGutterColorRGB" value="-10504091" />
+    <option name="stableHintColorRGB" value="-10504091" />
+    <option name="unstableGutterColorRGB" value="-1546166" />
+    <option name="unstableHintColorRGB" value="-1546166" />
+  </component>
+</application>

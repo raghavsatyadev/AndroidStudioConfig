@@ -1,0 +1,24 @@
+<application>
+  <component name="StudioBotSettingsV2">
+    <option name="agentModelId">
+      <ModelIdState>
+        <option name="id" value="Default" />
+        <option name="providerClass" value="AICode" />
+        <option name="providerName" value="Gemini (AI Pro)" />
+      </ModelIdState>
+    </option>
+    <option name="conversationModels">
+      <map>
+        <entry key="e9b40ad6-a2b2-47ee-a886-949ced745c2b">
+          <value>
+            <ModelIdState>
+              <option name="id" value="Default" />
+              <option name="providerClass" value="AICode" />
+              <option name="providerName" value="Gemini (AI Pro)" />
+            </ModelIdState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
