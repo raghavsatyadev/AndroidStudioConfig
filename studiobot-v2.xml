@@ -7,18 +7,13 @@
         <option name="providerName" value="Gemini (AI Pro)" />
       </ModelIdState>
     </option>
-    <option name="conversationModels">
-      <map>
-        <entry key="e9b40ad6-a2b2-47ee-a886-949ced745c2b">
-          <value>
-            <ModelIdState>
-              <option name="id" value="Default" />
-              <option name="providerClass" value="AICode" />
-              <option name="providerName" value="Gemini (AI Pro)" />
-            </ModelIdState>
-          </value>
-        </entry>
-      </map>
+    <option name="currentModelSetId" value="00000000-0000-0000-0000-000000000000" />
+    <option name="modelSets">
+      <list>
+        <ModelSetState>
+          <option name="id" value="00000000-0000-0000-0000-000000000000" />
+        </ModelSetState>
+      </list>
     </option>
   </component>
 </application>
