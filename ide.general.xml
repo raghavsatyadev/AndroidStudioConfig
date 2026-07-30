@@ -15,6 +15,8 @@
     <entry key="com.android.studio.ml.activeModel" value="com.android.studio.ml.AidaModel" source="SYSTEM" />
     <entry key="kotlin.scripting.index.dependencies.sources" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="gradle.phased.sync.enabled" value="true" source="SYSTEM" />
+    <entry key="gradle.phased.sync.bridge.disabled" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
