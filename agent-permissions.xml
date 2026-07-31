@@ -3,6 +3,7 @@
     <option name="entries">
       <map>
         <entry key="execute" value="commands:&quot;gradlew&quot;;" />
+        <entry key="file.all.sensitive" value="ok" />
         <entry key="project.gitignored" value="ok" />
         <entry key="project.write.non-sensitive" value="ok" />
         <entry key="project.write.normal" value="ok" />
