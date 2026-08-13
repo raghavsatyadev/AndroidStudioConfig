@@ -70,6 +70,9 @@
   <action id="android.streaming.xr.interaction" />
   <action id="android.streaming.xr.interaction.mouse" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+  <action id="sml.studiobot.inline.edit">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="sml.studiobot.quick.edit">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
