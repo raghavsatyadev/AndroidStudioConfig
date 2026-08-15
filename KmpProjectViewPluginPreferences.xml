@@ -1,0 +1,6 @@
+<application>
+  <component name="PluginPreferences">
+    <option name="fileIgnoreKeywords" />
+    <option name="unGroupCommonMain" value="true" />
+  </component>
+</application>
